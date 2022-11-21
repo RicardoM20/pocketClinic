@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Pocket Clinic</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Menu</string>
+    <string name="title_profile">Perfil</string>
+    <string name="title_messages">Mensajes</string>
+    <string name="title_activity_fragment_messages">fragment_messages</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="datos_del_paciente">Datos del Paciente</string>
+    <string name="nombre_del_paciente">Nombre del paciente</string>
+    <string name="fecha_de_egreso">Fecha de egreso</string>
+    <string name="alergias">Alergias</string>
+    <string name="diagn_stico_de_egreso">Diagnóstico de egreso</string>
+    <string name="diagn_stico_de_ingreso">Diagnóstico de ingreso</string>
+    <string name="d_as_de_instancia">Días de instancia</string>
+    <string name="fecha_de_ingreso">Fecha de ingreso</string>
+    <string name="fecha_de_nacimiento">Fecha de nacimiento</string>
+    <string name="datos_de_contacto">Datos de Contacto</string>
+    <string name="tel_fono">Teléfono</string>
+    <string name="estado">Estado</string>
+    <string name="municipio">Municipio</string>
+    <string name="direcci_n">Dirección</string>
+    <string name="correo">Correo</string>
+    <string name="registrar_paciente">Registrar paciente</string>
+    <string name="volver">Volver</string>
+    <string name="volver2">Volver</string>
+    <string name="buscar_expediente">Buscar expediente</string>
+    <string name="loading_data">Loading Data.....</string>
+    <string name="expedientes">Expedientes</string>
+    <string name="buscar_expediente2">Buscar expediente</string>
+    <string name="loading_data2">Loading Data.....</string>
+    <string name="patient_name">Patient Name</string>
+    <string name="join_date">Join date</string>
+    <string name="initial_diag">Initial diag</string>
+    <string name="final_diag">Final diag</string>
+    <string name="phone">Phone</string>
+    <string name="direction">Direction</string>
+    <string name="email">Email</string>
+    <string name="update_data">Update Data</string>
+    <string name="patient_leave_date">Patient Leave Date</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="pat_id">Pat ID</string>
+    <string name="patient_name2">Patient Name</string>
+    <string name="fecha_egreso">Fecha egreso</string>
+    <string name="fecha_ingreso">Fecha Ingreso</string>
+    <string name="alergiass">Alergias</string>
+    <string name="diag_ingreso">Diag Ingreso</string>
+    <string name="diag_egreso">Diag Egreso</string>
+    <string name="dias_instancia">Dias Instancia</string>
+    <string name="fecha_nacimiento">Fecha nacimiento</string>
+    <string name="estadoa">Estado</string>
+    <string name="municipios">Municipio</string>
+    <string name="telefono">Teléfono</string>
+    <string name="emaill">Correo</string>
+    <string name="expedientesMain">Expedientes</string>
+
+</resources>
